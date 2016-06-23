@@ -1,12 +1,12 @@
 ---
-profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
-name: "Adrian M Ryan"
-title: "Education Consultant"
+profileimage: "http://www.blackenterprise.com/wp-content/blogs.dir/1/files/2014/12/Tiffany-Yu-2014_resized.jpg"
+name: "Tiffany Yu"
+title: "Founder of Diversability"
 ---
 
-#### *Adrian is a product manager with 5 years experience building both digital and offline education products.*
+#### *Tiffany's headline.*
 
-His accomplishments include designing and building career-oriented programs at [General Assembly](http://generalassemb.ly) while managing an international team of 16, building online courses for public companies as a freelance consultant, and founding [a company](http://www.wheelhouse.io) that provides modern software development training to Fortune 500 companies.
+Insert bio here [Diversability](http://mydiversability.com).
 
 Adrian is available for projects on a case by case basis. Some of the services he provides include:
 
